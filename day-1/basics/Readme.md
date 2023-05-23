@@ -5,6 +5,6 @@
 <li>After selection of 5 Friends button should show as Continue or else button should be disabled!<li>
 </ol>
 
-<img src="assets/1.jpg" alt="pic 1">
+<img src="assets/1.jpg" alt="pic 1" style="width:300px;height:350px;">
 <br>
-<img src="assets/2.jpg" alt="pic 2">
+<img src="assets/2.jpg" alt="pic 2" style="width:300px;height:350px;">
