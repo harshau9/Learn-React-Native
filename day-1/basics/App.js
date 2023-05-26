@@ -84,6 +84,9 @@ export default function App() {
             justifyContent: "center",
             width: 110,
           }}
+
+
+          
           disabled={isDisabled}
         >
           <Text style={{color: isDisabled ? "black" : "white"}}>CONTINUE({selectionCount}/5)</Text>
